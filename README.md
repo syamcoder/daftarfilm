@@ -21,5 +21,5 @@ Testing penggunaan Git
 
 ## Kesimpulan
 - Dengan Git dan Github, kode akan aman dari harddisk rusak
-- Memiliki repo Github yang public, akan menjadikan repo tsb sbg 
+- Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai
 portofolio
