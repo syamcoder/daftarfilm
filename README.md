@@ -26,3 +26,4 @@ Testing penggunaan Git
 - Merubah kode pada branch tersebut
 - Meng-commit kode dan me-review perubahan pada file terlebih dahulu
 - Mem-push branch tsb
+
