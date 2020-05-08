@@ -1,4 +1,4 @@
-# Daftar Film - Sebuah Proyek Testing
+# Git - Sebuah Proyek Testing Penggunaan Git
 Testing penggunaan Git
 
 ## Menggunakan GIT dengan Command Line
@@ -32,6 +32,23 @@ Testing penggunaan Git
 - Menggunakan Linux, cukup dengan apt install git
 - Menggunakan Windows, dengan mendownload tool Git di 
 https://git-scm.com/downloads
+
+## List Commands
+- Copy url git ssh
+```$ git clone url_git_ssh```
+
+- Di folder project:
+```
+	$ git remote show origin
+	$ git status
+	$ git add .
+	$ git commit -am "Commit message"
+	$ git status
+	$ git push origin master
+```
+
+- Ganti remote url:
+``` $ git remote set-url origin git@github.com:syamdev/scrapy-flask.git```
 
 ## Kesimpulan
 - Dengan Git dan Github, kode akan aman dari harddisk rusak
