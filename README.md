@@ -50,6 +50,18 @@ https://git-scm.com/downloads
 - Ganti remote url:
 ``` $ git remote set-url origin git@github.com:syamdev/scrapy-flask.git```
 
+## Git Workflow Alternative
+- Create project folder on Local
+- Create repo on Github
+- Copy SSH git URL
+- On Local project folder:
+```
+	$ git init
+	$ git remote show origin
+	$ git remote add origin git@github.com:syamdev/your-project.git
+	$ git pull origin master
+```
+
 ## Kesimpulan
 - Dengan Git dan Github, kode akan aman dari harddisk rusak
 - Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai
