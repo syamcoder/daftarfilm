@@ -1,5 +1,4 @@
-# Git - Sebuah Proyek Testing Penggunaan Git
-Testing penggunaan Git
+# Git - Cara Penggunaan Git
 
 ## Menggunakan GIT dengan Command Line
 - Buat SSH keys
@@ -27,6 +26,16 @@ Testing penggunaan Git
 - Merubah kode pada branch tersebut
 - Meng-commit kode dan me-review perubahan pada file terlebih dahulu
 - Mem-push branch tsb
+
+## Flow GIT di Team
+- git checkout -b new-branch
+- pull master
+- git add file
+- git commit
+- push branch to remote
+- git checkout master
+- git merge new-branch
+- push origin master
 
 ## Instalasi Git
 - Menggunakan Linux, cukup dengan apt install git
